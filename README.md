@@ -30,15 +30,6 @@ Tudo isso reunido em uma plataforma didática, aberta e organizada — feita por
 
 ---
 
-## 📂 O que você vai encontrar aqui
-
-- `dashboards/` — Visualizações criadas no Power BI ou com plotly/matplotlib.
-- `codigos/` — Estratégias de trading, análise técnica, forecast e valuation.
-- `cartas/` — Reflexões, relatórios e visões de mercado em formato carta.
-- `utils/` — Scripts auxiliares para ETL, coleta de dados e tratamento.
-
----
-
 ## 🧑‍💻 Sobre mim
 
 Atuo com assessoria de investimentos e soluções financeiras, liderando iniciativas que unem tecnologia e finanças em um dos maiores escritórios credenciados à XP.  
@@ -51,8 +42,8 @@ Uso dados, modelos quantitativos e ferramentas de BI para melhorar decisões de 
 Quer conversar sobre alguma ideia, código ou oportunidade?  
 Sinta-se à vontade para me chamar:
 
-- 📬 Email: `seuemail@exemplo.com`
-- 💼 LinkedIn: `linkedin.com/in/seu-usuario`
+- 📬 Email: `gustavo.limaa@usp.br`
+- 💼 LinkedIn: `linkedin.com/in/gustavo--lima`
 - 📈 Instagram (opcional): `@invistacomlima`
 
 ---
